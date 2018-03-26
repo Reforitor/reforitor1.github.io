@@ -1,0 +1,60 @@
+html, body{
+	font-family: open-sans;
+	margin:0px;
+	background-color: rgb(52, 152, 219);
+	color: white;
+
+
+
+
+}
+
+h1{
+
+
+	font-size: 60px;
+}
+
+h3{
+
+
+	font-size: 40px;
+}
+
+h6{
+
+
+	font-size: 20px;
+}
+
+div{
+
+	background-color: rgba(27, 79, 114,0.4);
+	margin-top: 50%;
+}
+
+footer{
+	color: rgb(27, 79, 114);
+	background-color: rgba(440, 55, 66, 0.3);
+	text-align: center;
+	text-transform: uppercase, bold;
+	height: 300px;
+	font-family: Comic Sans MS;
+	font-size: 30px;
+
+
+}
+a{
+
+
+	font-size: 20px;
+	color: white;
+}
+
+
+a:hover{
+
+	font-size: 30px;
+	color: orange;
+	background-color: rgba(33, 93, 40, 0.7)
+}
